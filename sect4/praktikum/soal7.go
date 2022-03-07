@@ -1,4 +1,4 @@
-[17.33, 7/3/2022] Indah Lestari: package main
+package main
 
 import "fmt"
 
